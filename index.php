@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello Midios, Trial Git Remote</h1>
+    <p>Belajar menambah beberapa commit didalam repo lokal kita, sebelum memindah semuanya ke repo origin (repo remotenya) di github</p>
 </body>
 </html>
